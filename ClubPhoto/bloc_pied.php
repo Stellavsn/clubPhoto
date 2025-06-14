@@ -1,0 +1,1 @@
+<p>Site réalisé par Stella | Contacter l'administrateur | Mentions légales</p>
